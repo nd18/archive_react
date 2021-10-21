@@ -1,0 +1,14 @@
+@media all and (min-width: 480px) {
+    .note-container {
+      padding: 60px 0;
+    }
+  
+    .note-container form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+
+  .note-text { 
+      margin : 1rem
+  }
